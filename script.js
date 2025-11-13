@@ -1,4 +1,5 @@
-console.log(" ============ CLASE 1 ============ ");console.log("============ Introducción a JavaScript y Sintaxis Básica ============");
+console.log(" ============ CLASE 2 ============ ");
+console.log("============ Introducción a JavaScript y Sintaxis Básica ============");
 
 // Ejercicio 1: Crea una variable nombre con tu nombre y úsala para imprimir un mensaje
 let ej2_nombre = "Benjamin";
